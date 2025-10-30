@@ -1,2 +1,3 @@
 # nanosvg-zig
-Zig bindings for the nanosvg C library
+
+Zig package for the nanosvg C library
